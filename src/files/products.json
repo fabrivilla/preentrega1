@@ -1,0 +1,35 @@
+[
+	{
+		"id": "d070afa8-63d9-478c-b388-98178830caac",
+		"title": "zapatillas",
+		"description": "zapatillas deportivas de hombre",
+		"price": 200,
+		"thumbnail": "",
+		"code": "ABS123",
+		"stock": 100,
+		"status": true,
+		"category": "zapatillas hombre "
+	},
+	{
+		"id": "4b3d41e8-d374-4569-b30f-13f91bc7edb2",
+		"title": "chaqueta",
+		"description": "chaquetas invierno",
+		"price": 1000,
+		"thumbnail": "",
+		"code": "ABS125",
+		"stock": 200,
+		"status": true,
+		"category": "chaquetas"
+	},
+	{
+		"id": "857295ab-2cee-436f-8c3b-eff91d5f7acd",
+		"title": "short",
+		"description": "short de mujer verano",
+		"price": 10000,
+		"thumbnail": "",
+		"code": "ABS126",
+		"stock": 90,
+		"status": true,
+		"category": "shorts"
+	}
+]
